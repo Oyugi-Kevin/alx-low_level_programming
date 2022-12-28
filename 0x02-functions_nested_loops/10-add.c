@@ -19,7 +19,3 @@ int add(int n1, int n2)
 
 	return (sum);
 }
-Footer
-© 2022 GitHub, Inc.
-Footer navigation
-Terms
