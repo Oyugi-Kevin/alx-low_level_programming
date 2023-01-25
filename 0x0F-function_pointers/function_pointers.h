@@ -1,0 +1,3 @@
+#ifndef POINTERS_FUNTIONS
+#define POINTERS_FUNTIONS
+#endif
